@@ -3,6 +3,8 @@ WhatsUp Android Client
 
 The WhatsUp Android client enables users to connect to the WhatsUp service and share, comment and rate annotations on a map.
 
+This project was created during DAT255-HT11 and shows a typical project that would receive grade 4 today. The course had different requirements and roadmap, and thus some artifacts that are expected today doesn't exist.
+
 Clone and build using Eclipse IDE
 ---------------------------------
 
